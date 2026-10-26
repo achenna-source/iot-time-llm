@@ -1,4 +1,4 @@
-Table: Reference policies on the main grid (8,640 probes). $ρ$: normalised regret at each read price (0 = optimal, 1 = the better fixed rule at that price). At $r = 0.6$ never re-reading is optimal, so $ρ$ is undefined and the excess expected cost over the optimum, in units of the wrong-command cost $L$, is given instead. $J$: staleness sensitivity index.
+Table: Reference policies on the main grid
 | Policy | Re-read rate | $J$ | $ρ$, $r = 0.02$ | $ρ$, $r = 0.1$ | $ρ$, $r = 0.3$ | Excess cost, $r = 0.6$ |
 |---|---|---|---|---|---|---|
 | Always re-read | 1.00 | +0.000 | 1.00 | 1.00 | 1.90 | 0.361 |
@@ -10,4 +10,4 @@ Table: Reference policies on the main grid (8,640 probes). $ρ$: normalised regr
 | Optimal policy (Theorem 1) | 0.47 | +0.314 | 0.00 | 0.00 | 0.00 | 0.000 |
 | Best prompt-only threshold for J | 0.50 | +0.539 | 4.59 | 0.04 | 0.00 | 0.083 |
 | Oracle (sees the realised change) | n/a | +1.000 | n/a | n/a | n/a | n/a |
-Note: Fixed rules score $J = 0$ by construction. The time-to-live rules are chosen on the corpus itself, so they are optimistic for that family; the single time-to-live uses one age threshold for every price. The exit-rate rule ignores the time share of the remembered state and re-reads at $r = 0.6$, where re-reading is never optimal.
+Note: 8,640 probes. $ρ$: normalised regret at each read price (0 = optimal, 1 = the better fixed rule at that price). At $r = 0.6$ never re-reading is optimal, so $ρ$ is undefined and the excess expected cost over the optimum, in units of the wrong-command cost $L$, is given instead. $J$: staleness sensitivity index. Fixed rules score $J = 0$ by construction. The time-to-live rules are chosen on the corpus itself, so they are optimistic for that family; the single time-to-live uses one age threshold for every price. The exit-rate rule ignores the time share of the remembered state and re-reads at $r = 0.6$, where re-reading is never optimal.

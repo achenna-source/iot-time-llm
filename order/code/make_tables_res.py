@@ -34,7 +34,32 @@ def pct(v):
     return "n/a" if v is None or v != v else "%.0f" % (100 * v)
 
 
+
+
+def shorten(rows, title, lead=""):
+    """one-line title; the definitions of the long caption move to the table note."""
+    import re as _re
+    cap = rows[0][len("Table: "):]
+    m = _re.search(r"[.?] ", cap)
+    rest = cap[m.end():] if m else ""
+    details = (lead + " " + rest).strip()
+    rows = list(rows)
+    rows[0] = "Table: " + title
+    ni = next((i for i, r in enumerate(rows) if r.startswith("Note:")), None)
+    if details:
+        if ni is None:
+            rows.append("Note: " + details)
+        else:
+            rows[ni] = "Note: " + details + " " + rows[ni][len("Note: "):]
+    return rows
+
+
+CAPS = {'arbitration': ('Arbitration between timestamps and maintenance history', 'Main part, 1,728 probes.'), 'arms': ('Arbitration when the model is helped', ''), 'cert': ('Certification under a hard offset bound', '240 probes; prefilled scoring.'), 'cues': ("Cue weights in each model's choice", 'Fractional logit of the probability of naming event A on the history log-odds, the sign of the timestamp difference, the size of the timestamp evidence $gD/σ_{θ}^{2}$, the line position (±1) and an intercept.'), 'relocate': ('Extraction fidelity and free answers', 'Stratified random subsets.'), 'misspec': ('The attributor under a misdeclared clock model', ''), 'sync': ('Counterfactual timestamp-only error on measured event delays', 'By oscillator and synchronisation interval; NTP residual 10 ms, uniform prior.')}
+
+
 def write(name, rows):
+    if name in CAPS:
+        rows = shorten(rows, *CAPS[name])
     open(os.path.join(TAB, "table_%s.md" % name), "w", encoding="utf-8").write(NL.join(rows) + NL)
 
 

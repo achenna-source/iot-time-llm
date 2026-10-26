@@ -1,4 +1,4 @@
-Table: Does helping the model change the decision? One probe per cell of the main grid (120 cells; three option rotations, except for reasoning, which uses one rotation and free generation within a budget of 512 new tokens, parsed for a final answer or, when the budget ran out, forced by appending "Answer:" to the model's own reasoning). Re-read rate at $r = 0.6$, where re-reading is never optimal, and normalised regret at $r = 0.1$ and $r = 0.3$.
+Table: Re-read decisions when the model is helped
 | Model | Arm | Re-read, $r = 0.6$ | $ρ$, $r = 0.1$ | $ρ$, $r = 0.3$ | $J$ |
 |---|---|---|---|---|---|
 | Qwen2.5-7B | As in the corpus | 100 | 1.00 | 1.90 | +0.000 |
@@ -32,3 +32,4 @@ Table: Does helping the model change the decision? One probe per cell of the mai
 |  | Staleness probability stated | 97 | 0.93 | 1.82 | +0.022 |
 |  | Step-by-step reasoning (85% answered within budget) | 77 | 0.89 | 1.77 | +0.047 |
 | Optimal policy | | 0 | 0.00 | 0.00 | +0.314 |
+Note: One probe per cell of the main grid (120 cells; three option rotations, except for reasoning, which uses one rotation and free generation within a budget of 512 new tokens, parsed for a final answer or, when the budget ran out, forced by appending "Answer:" to the model's own reasoning). Re-read rate at $r = 0.6$, where re-reading is never optimal, and normalised regret at $r = 0.1$ and $r = 0.3$.

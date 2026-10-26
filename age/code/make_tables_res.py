@@ -42,7 +42,32 @@ def pct(v):
     return "n/a" if v is None or v != v else "%.0f" % (100 * v)
 
 
+
+
+def shorten(rows, title, lead=""):
+    """one-line title; the definitions of the long caption move to the table note."""
+    import re as _re
+    cap = rows[0][len("Table: "):]
+    m = _re.search(r"[.?] ", cap)
+    rest = cap[m.end():] if m else ""
+    details = (lead + " " + rest).strip()
+    rows = list(rows)
+    rows[0] = "Table: " + title
+    ni = next((i for i, r in enumerate(rows) if r.startswith("Note:")), None)
+    if details:
+        if ni is None:
+            rows.append("Note: " + details)
+        else:
+            rows[ni] = "Note: " + details + " " + rows[ni][len("Note: "):]
+    return rows
+
+
+CAPS = {'reread': ('Re-read decisions on the main grid', '8,640 probes per model; 4,320 for the Qwen2.5-14B scale check.'), 'cost': ('Cost of the re-read decisions at each read price', ''), 'arms': ('Re-read decisions when the model is helped', ''), 'tool': ('First turn with native tools', '216 situations, no option list.'), 'relocate': ('Comprehension and extraction', ''), 'gatemis': ('Freshness gate with misestimated fields', 'Main grid, no language model.'), 'fleet': ('Re-read rules on real home sensors', 'Normalised regret on 139 CASAS devices.')}
+
+
 def write(name, rows):
+    if name in CAPS:
+        rows = shorten(rows, *CAPS[name])
     open(os.path.join(TAB, "table_%s.md" % name), "w", encoding="utf-8").write(NL.join(rows) + NL)
 
 

@@ -1,4 +1,4 @@
-Table: Certification under a hard offset bound $δ$ (240 probes; prefilled scoring). Overclaim: the model asserts an order when $|D| < 2δ$; underclaim: it declines when $|D| > 2δ$; misorder: it asserts the order opposite to the timestamps.
+Table: Certification under a hard offset bound
 | Model | Accuracy | Overclaim | Underclaim | Misorder |
 |---|---|---|---|---|
 | Qwen2.5-7B | 0.59 | 0.04 | 0.96 | 0.02 |
@@ -10,3 +10,4 @@ Table: Certification under a hard offset bound $δ$ (240 probes; prefilled scori
 | Order certifier (Lemma 1) | 1.00 | 0.00 | 0.00 | 0.00 |
 | Always "not established" | 0.60 | 0.00 | 1.00 | 0.00 |
 | Always the timestamp order | 0.40 | 1.00 | 0.00 | 0.00 |
+Note: 240 probes; prefilled scoring. Overclaim: the model asserts an order when $|D| < 2δ$; underclaim: it declines when $|D| > 2δ$; misorder: it asserts the order opposite to the timestamps.
