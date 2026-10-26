@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """ORDER figures that do not depend on the model audit: the error floor and the fan-out effect (theory),
 and the timestamp-only error on measured latencies as a function of the synchronisation interval.
 python figs_theory.py <results_dir> <realdata_order.json> <figures_dir>
@@ -31,7 +31,7 @@ for k, pi in enumerate((0.5, 0.7, 0.9)):
         exact.append(pi * stats.norm.cdf((dstar - g) / sd) + (1 - pi) * (1 - stats.norm.cdf((dstar + g) / sd)))
     ax.plot(kap, exact, color=SERIES[k], label="Bayes error, prior %.1f" % pi)
     ax.plot(kap, 2 * (1 - pi) * stats.norm.cdf(-kap / math.sqrt(2)), color=SERIES[k], ls="--", lw=1.2)
-ax.text(1.45, 0.19, "dashed: closed-form floor of\nCorollary 1, attained at a\nuniform prior (prior 0.5)", color=INK2, fontsize=6.4)
+ax.text(1.75, 0.30, "dashed: closed-form floor\n(Corollary 1)", color=INK2, fontsize=6.4)
 ax.set_xlabel("κ = RMS latency / clock-offset SD")
 ax.set_ylabel("P(wrong first event)")
 ax.set_title("Error floor (Theorem 2, Corollary 1)", loc="left")
@@ -60,26 +60,25 @@ fig.savefig(os.path.join(FIG, "fig_floor.png"))
 
 # ------------------------------------------------------------ Figure: measured latencies vs synchronisation interval
 summ = json.load(open(os.path.join(RES, "realdata_order_summary.json")))
-fig, ax = plt.subplots(figsize=(4.6, 2.8))
+fig, ax = plt.subplots(figsize=(5.4, 2.9))
 names = {"homes (CASAS): door -> motion": "homes (CASAS)", "industrial testbed (HAI): valve demand -> position": "industrial (HAI)"}
 for key, curve in summ["curves"].items():
     src, clock, sync = [x.strip() for x in key.split("|")]
     if not sync.startswith("NTP"):
         continue
     k = list(names).index(src)
-    ls = "-" if clock.startswith("XO") else ":"
+    ls = "-" if clock.startswith("XO") else ("--" if clock.startswith("TCXO") else ":")
+    lab_clock = "XO ±20 ppm" if clock.startswith("XO") else ("TCXO ±2 ppm" if clock.startswith("TCXO") else "disciplined ±0.5 ppm")
     ax.plot([c[0] / 86400 for c in curve], [c[1] for c in curve], color=SERIES[k], ls=ls,
-            label="%s, %s" % (names[src], clock.replace("+-", "±")))
+            label="%s, %s" % (names[src], lab_clock))
 for d, lab in ((1, "daily"), (7, "weekly"), (30, "monthly")):
     ax.axvline(d, color=MUTED, lw=0.7)
     ax.text(d * 1.06, 0.505, lab, color=MUTED, fontsize=6.3)
 ax.set_xscale("log")
 ax.set_ylim(0, 0.55)
-ax.set_xlabel("time between clock synchronisations (days), NTP residual 10 ms")
-ax.set_ylabel("Bayes error from timestamps alone")
-ax.text(0.0075, 0.06, "exact under Definition 1, prior 1/2", color=INK2, fontsize=6.2)
-ax.legend(loc="upper left", bbox_to_anchor=(0, 0.93), fontsize=6.0, frameon=True, facecolor="white",
-          edgecolor="none", framealpha=0.92)
+ax.set_xlabel("time between clock synchronisations (days)")
+ax.set_ylabel("error from timestamps alone")
+ax.legend(loc="center left", bbox_to_anchor=(1.02, 0.5), fontsize=6.2, frameon=False)
 fig.tight_layout()
 fig.savefig(os.path.join(FIG, "fig_sync.png"))
 print("saved")
