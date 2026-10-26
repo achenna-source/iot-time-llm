@@ -1,0 +1,29 @@
+{
+ "model_id": "allenai/OLMo-2-1124-7B-Instruct",
+ "short": "olmo2-7b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/force_age__olmo2-7b.jsonl",
+   "letters",
+   null,
+   null,
+   "age_force"
+  ],
+  [
+   "/kaggle/input/**/force_order__olmo2-7b.jsonl",
+   "letters",
+   null,
+   null,
+   "order_force"
+  ]
+ ],
+ "age_force": {
+  "n": 42,
+  "seconds": 23.412132740020752
+ },
+ "order_force": {
+  "n": 85,
+  "seconds": 69.85670495033264
+ }
+}

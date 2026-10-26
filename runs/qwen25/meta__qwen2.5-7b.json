@@ -1,0 +1,73 @@
+{
+ "model_id": "Qwen/Qwen2.5-7B-Instruct",
+ "short": "qwen2.5-7b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/age_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "age_all"
+  ],
+  [
+   "/kaggle/input/**/order_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "order_all"
+  ],
+  [
+   "/kaggle/input/**/age_toolcall.jsonl",
+   "generate",
+   null,
+   null,
+   "age_tool"
+  ],
+  [
+   "/kaggle/input/**/order_free.jsonl",
+   "generate",
+   null,
+   null,
+   "order_free"
+  ],
+  [
+   "/kaggle/input/**/age_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "age_ext"
+  ],
+  [
+   "/kaggle/input/**/order_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "order_ext"
+  ]
+ ],
+ "age_all": {
+  "n": 12336,
+  "seconds": 3915.827390193939
+ },
+ "order_all": {
+  "n": 2496,
+  "seconds": 1204.190529346466
+ },
+ "age_tool": {
+  "n": 216,
+  "seconds": 432.73033142089844
+ },
+ "order_free": {
+  "n": 216,
+  "seconds": 304.6355872154236
+ },
+ "age_ext": {
+  "n": 108,
+  "seconds": 688.8463859558105
+ },
+ "order_ext": {
+  "n": 108,
+  "seconds": 759.80619764328
+ }
+}

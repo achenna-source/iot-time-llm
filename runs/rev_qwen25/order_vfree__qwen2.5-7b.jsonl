@@ -1,0 +1,216 @@
+{"id": "ordv-free-ord-01368", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01416", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01398", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01335", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01318", "model": "qwen2.5-7b", "text": "[j1] jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01281", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01391", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01303", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01299", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01419", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01415", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01354", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01302", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01269", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01261", "model": "qwen2.5-7b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01377", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-00785", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01586", "model": "qwen2.5-7b", "text": "spindle M3stopped"}
+{"id": "ordv-free-ord-00674", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00705", "model": "qwen2.5-7b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01518", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00671", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00744", "model": "qwen2.5-7b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01597", "model": "qwen2.5-7b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00676", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00750", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01499", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01927", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-02001", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-02000", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01935", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-02014", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01498", "model": "qwen2.5-7b", "text": "spindle M3stopped"}
+{"id": "ordv-free-ord-02012", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-00704", "model": "qwen2.5-7b", "text": "vm_f4"}
+{"id": "ordv-free-ord-01926", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-00797", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01962", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-02041", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01940", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-00686", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01249", "model": "qwen2.5-7b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-02046", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01549", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01609", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01608", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00734", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00753", "model": "qwen2.5-7b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01521", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00654", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00773", "model": "qwen2.5-7b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01491", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00737", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01483", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-02036", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01556", "model": "qwen2.5-7b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00779", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00777", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01626", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01955", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01922", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01746", "model": "qwen2.5-7b", "text": "ft_cw2"}
+{"id": "ordv-free-ord-01479", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00659", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01901", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01579", "model": "qwen2.5-7b", "text": "spindle M3stopped"}
+{"id": "ordv-free-ord-01666", "model": "qwen2.5-7b", "text": "ft_cw2"}
+{"id": "ordv-free-ord-01947", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01839", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00791", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01461", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01809", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-01709", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00646", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01517", "model": "qwen2.5-7b", "text": "spindle M3stopped"}
+{"id": "ordv-free-ord-00537", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01524", "model": "qwen2.5-7b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-01471", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01529", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01836", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00587", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01727", "model": "qwen2.5-7b", "text": "ft_cw2"}
+{"id": "ordv-free-ord-02034", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01716", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00565", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01980", "model": "qwen2.5-7b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01730", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-01134", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00133", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01085", "model": "qwen2.5-7b", "text": "[cam07] camera CAM-07 offline"}
+{"id": "ordv-free-ord-00045", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00746", "model": "qwen2.5-7b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01112", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00024", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00052", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00109", "model": "qwen2.5-7b", "text": "booster pump BP2 stopped"}
+{"id": "ordv-free-ord-01784", "model": "qwen2.5-7b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-00570", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01194", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01093", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01190", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01692", "model": "qwen2.5-7b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01773", "model": "qwen2.5-7b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-00563", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01916", "model": "qwen2.5-7b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-00161", "model": "qwen2.5-7b", "text": "booster pump BP2 stopped"}
+{"id": "ordv-free-ord-01482", "model": "qwen2.5-7b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01767", "model": "qwen2.5-7b", "text": "ft_cw2"}
+{"id": "ordv-free-ord-01208", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01143", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00566", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-00445", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01789", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00113", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00505", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-00423", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-02162", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02255", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00584", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-02206", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02122", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02409", "model": "qwen2.5-7b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-02214", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-01192", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-02246", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-01187", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00144", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01050", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00465", "model": "qwen2.5-7b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-02180", "model": "qwen2.5-7b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-00006", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02107", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00074", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01095", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01132", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00033", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00111", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01704", "model": "qwen2.5-7b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01081", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00249", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00362", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-02316", "model": "qwen2.5-7b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00295", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00025", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02225", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00268", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02101", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00309", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00591", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01171", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-02297", "model": "qwen2.5-7b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-01790", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00375", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00232", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-01065", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01062", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01061", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-02334", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00520", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-02160", "model": "qwen2.5-7b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-01140", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00551", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01831", "model": "qwen2.5-7b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-02302", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-02252", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02379", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00234", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00222", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00213", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00164", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02359", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-01165", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01124", "model": "qwen2.5-7b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01204", "model": "qwen2.5-7b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-02140", "model": "qwen2.5-7b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02150", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02111", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02131", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02108", "model": "qwen2.5-7b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02420", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-02290", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-02087", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02106", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02440", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00274", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00273", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00251", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00915", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00333", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00312", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02303", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00220", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00999", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-02205", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00490", "model": "qwen2.5-7b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-00219", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02376", "model": "qwen2.5-7b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00132", "model": "qwen2.5-7b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02242", "model": "qwen2.5-7b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-00962", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00923", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-01001", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00853", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-02433", "model": "qwen2.5-7b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00874", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-02090", "model": "qwen2.5-7b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02296", "model": "qwen2.5-7b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00897", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00899", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00336", "model": "qwen2.5-7b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00242", "model": "qwen2.5-7b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00894", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00904", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00982", "model": "qwen2.5-7b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00987", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00844", "model": "qwen2.5-7b", "text": "frequency deviation on bus B1"}

@@ -1,0 +1,73 @@
+{
+ "model_id": "unsloth/Llama-3.1-8B-Instruct",
+ "short": "llama3.1-8b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/age_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "age_all"
+  ],
+  [
+   "/kaggle/input/**/order_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "order_all"
+  ],
+  [
+   "/kaggle/input/**/age_toolcall.jsonl",
+   "generate",
+   null,
+   null,
+   "age_tool"
+  ],
+  [
+   "/kaggle/input/**/order_free.jsonl",
+   "generate",
+   null,
+   null,
+   "order_free"
+  ],
+  [
+   "/kaggle/input/**/age_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "age_ext"
+  ],
+  [
+   "/kaggle/input/**/order_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "order_ext"
+  ]
+ ],
+ "age_all": {
+  "n": 12336,
+  "seconds": 3995.0698800086975
+ },
+ "order_all": {
+  "n": 2496,
+  "seconds": 1170.0455584526062
+ },
+ "age_tool": {
+  "n": 216,
+  "seconds": 719.6188678741455
+ },
+ "order_free": {
+  "n": 216,
+  "seconds": 964.9564406871796
+ },
+ "age_ext": {
+  "n": 108,
+  "seconds": 797.7215812206268
+ },
+ "order_ext": {
+  "n": 108,
+  "seconds": 854.4225835800171
+ }
+}

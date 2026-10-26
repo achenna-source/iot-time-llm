@@ -1,0 +1,29 @@
+{
+ "model_id": "Qwen/Qwen2.5-7B-Instruct",
+ "short": "qwen2.5-7b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/force_age__qwen2.5-7b.jsonl",
+   "letters",
+   null,
+   null,
+   "age_force"
+  ],
+  [
+   "/kaggle/input/**/force_order__qwen2.5-7b.jsonl",
+   "letters",
+   null,
+   null,
+   "order_force"
+  ]
+ ],
+ "age_force": {
+  "n": 11,
+  "seconds": 8.365933656692505
+ },
+ "order_force": {
+  "n": 126,
+  "seconds": 110.28398871421814
+ }
+}

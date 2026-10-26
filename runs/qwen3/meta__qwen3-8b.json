@@ -1,0 +1,96 @@
+{
+ "model_id": "Qwen/Qwen3-8B",
+ "short": "qwen3-8b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/age_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "age_all"
+  ],
+  [
+   "/kaggle/input/**/order_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "order_all"
+  ],
+  [
+   "/kaggle/input/**/order_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "order_px",
+   "Answer:"
+  ],
+  [
+   "/kaggle/input/**/age_noread.jsonl",
+   "letters",
+   null,
+   null,
+   "age_noread"
+  ],
+  [
+   "/kaggle/input/**/age_toolcall.jsonl",
+   "generate",
+   null,
+   null,
+   "age_tool"
+  ],
+  [
+   "/kaggle/input/**/order_free.jsonl",
+   "generate",
+   null,
+   null,
+   "order_free"
+  ],
+  [
+   "/kaggle/input/**/age_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "age_ext"
+  ],
+  [
+   "/kaggle/input/**/order_extract.jsonl",
+   "generate",
+   null,
+   null,
+   "order_ext"
+  ]
+ ],
+ "age_all": {
+  "n": 12336,
+  "seconds": 4173.934886932373
+ },
+ "order_all": {
+  "n": 2496,
+  "seconds": 1303.1441841125488
+ },
+ "order_px": {
+  "n": 2496,
+  "seconds": 1308.4233164787292
+ },
+ "age_noread": {
+  "n": 144,
+  "seconds": 42.249823808670044
+ },
+ "age_tool": {
+  "n": 216,
+  "seconds": 632.7241802215576
+ },
+ "order_free": {
+  "n": 216,
+  "seconds": 422.33162021636963
+ },
+ "age_ext": {
+  "n": 108,
+  "seconds": 990.4389398097992
+ },
+ "order_ext": {
+  "n": 108,
+  "seconds": 1077.8756597042084
+ }
+}

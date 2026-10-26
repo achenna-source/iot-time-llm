@@ -1,0 +1,410 @@
+{
+ "n_devices": 139,
+ "by": {
+  "door": {
+   "n_devices": 6,
+   "share_r0.02": {
+    "oracle": 0.00857252932104831,
+    "oracle_read_or_act": 0.008575004246686805,
+    "always_read": 0.02,
+    "never_read": 0.030448972501026874,
+    "ttl_single": 0.012898101167612867,
+    "ttl_class": 0.012898101167612867,
+    "ttl_state": 0.009649730928244164,
+    "exit_rate_rule": 0.014807933360805301,
+    "renewal_rule": 0.014852192516648393,
+    "two_param_gate": 0.010487656545669782,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 1.9145712371925148,
+     "ttl_single": 0.37838936786233673,
+     "ttl_class": 0.37838936786233673,
+     "ttl_state": 0.09406801584549328,
+     "exit_rate_rule": 0.5455519851997298,
+     "renewal_rule": 0.5494258733655312,
+     "two_param_gate": 0.16740945382218775
+    }
+   },
+   "share_r0.1": {
+    "oracle": 0.018698112318963258,
+    "oracle_read_or_act": 0.018758716668933723,
+    "always_read": 0.1,
+    "never_read": 0.030448972501026874,
+    "ttl_single": 0.030448972501026874,
+    "ttl_class": 0.030448972501026874,
+    "ttl_state": 0.019875475790940796,
+    "exit_rate_rule": 0.05414420282281407,
+    "renewal_rule": 0.05423116123271341,
+    "two_param_gate": 0.02588936103992856,
+    "rho": {
+     "always_read": 6.949487205235949,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.09552905753706814,
+     "exit_rate_rule": 3.026921451687729,
+     "renewal_rule": 3.034359989487785,
+     "two_param_gate": 0.6099647837833578
+    }
+   },
+   "share_r0.3": {
+    "oracle": 0.026939681111252743,
+    "oracle_read_or_act": 0.02720766586748975,
+    "always_read": 0.3,
+    "never_read": 0.030448972501026874,
+    "ttl_single": 0.030448972501026874,
+    "ttl_class": 0.030448972501026874,
+    "ttl_state": 0.027312899405120612,
+    "exit_rate_rule": 0.11596864631867665,
+    "renewal_rule": 0.12069879021307356,
+    "two_param_gate": 0.027926584485062553,
+    "rho": {
+     "always_read": 84.1612241526256,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.032466393812308175,
+     "exit_rate_rule": 27.38432073435926,
+     "renewal_rule": 28.843653166982293,
+     "two_param_gate": 0.22179901467337373
+    }
+   },
+   "uniform_r0.02": {
+    "oracle": 0.010581285694901875,
+    "oracle_read_or_act": 0.010654371584699455,
+    "always_read": 0.02,
+    "never_read": 0.09562472862623198,
+    "ttl_single": 0.01742605527390248,
+    "ttl_class": 0.01742605527390248,
+    "ttl_state": 0.01160724043715847,
+    "exit_rate_rule": 0.015641393442622952,
+    "renewal_rule": 0.01568237704918033,
+    "two_param_gate": 0.01253620218579235,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 9.091989673205937,
+     "ttl_single": 0.724583023022455,
+     "ttl_class": 0.724583023022455,
+     "ttl_state": 0.10195877795643904,
+     "exit_rate_rule": 0.5336208156702237,
+     "renewal_rule": 0.5380061394532966,
+     "two_param_gate": 0.20135945037275244
+    }
+   },
+   "uniform_r0.1": {
+    "oracle": 0.029685886405407744,
+    "oracle_read_or_act": 0.031475565567602906,
+    "always_read": 0.1,
+    "never_read": 0.09562472862623198,
+    "ttl_single": 0.05778297962229706,
+    "ttl_class": 0.05778297962229706,
+    "ttl_state": 0.03296413086383205,
+    "exit_rate_rule": 0.06071174863387979,
+    "renewal_rule": 0.06078756830601094,
+    "two_param_gate": 0.04036065573770493,
+    "rho": {
+     "always_read": 1.0682046524873483,
+     "never_read": 1.0,
+     "ttl_single": 0.41009754142311283,
+     "ttl_class": 0.41009754142311283,
+     "ttl_state": 0.023204750073959182,
+     "exit_rate_rule": 0.4557531489468772,
+     "renewal_rule": 0.45693507663721744,
+     "two_param_gate": 0.13850672006400927
+    }
+   },
+   "uniform_r0.3": {
+    "oracle": 0.05198959682492692,
+    "oracle_read_or_act": 0.059794263220219815,
+    "always_read": 0.3,
+    "never_read": 0.09562472862623198,
+    "ttl_single": 0.09562472862623198,
+    "ttl_class": 0.09562472862623198,
+    "ttl_state": 0.061788861957098276,
+    "exit_rate_rule": 0.1377714215668135,
+    "renewal_rule": 0.14275773415238874,
+    "two_param_gate": 0.0695316674684528,
+    "rho": {
+     "always_read": 6.703952462182502,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.05566767593657263,
+     "exit_rate_rule": 2.176280923593851,
+     "renewal_rule": 2.315444970978471,
+     "two_param_gate": 0.27176326452625693
+    }
+   }
+  },
+  "motion": {
+   "n_devices": 133,
+   "share_r0.02": {
+    "oracle": 0.006137437609720114,
+    "oracle_read_or_act": 0.006150541842432881,
+    "always_read": 0.02,
+    "never_read": 0.011878939728259881,
+    "ttl_single": 0.012838149786921568,
+    "ttl_class": 0.012838149786921568,
+    "ttl_state": 0.008281118620096267,
+    "exit_rate_rule": 0.01977080978234491,
+    "renewal_rule": 0.019781517469446088,
+    "two_param_gate": 0.007997107408233926,
+    "rho": {
+     "always_read": 2.4176843916224744,
+     "never_read": 1.0,
+     "ttl_single": 1.1674482251023328,
+     "ttl_class": 1.1674482251023328,
+     "ttl_state": 0.37193240066909167,
+     "exit_rate_rule": 2.3776749121444265,
+     "renewal_rule": 2.3795441410832314,
+     "two_param_gate": 0.32235288166168624
+    }
+   },
+   "share_r0.1": {
+    "oracle": 0.006700482594539849,
+    "oracle_read_or_act": 0.006990657038920632,
+    "always_read": 0.1,
+    "never_read": 0.011878939728259881,
+    "ttl_single": 0.011878939728259881,
+    "ttl_class": 0.011878939728259881,
+    "ttl_state": 0.009795409960700262,
+    "exit_rate_rule": 0.09024142482436198,
+    "renewal_rule": 0.09064087450599212,
+    "two_param_gate": 0.012354085711976314,
+    "rho": {
+     "always_read": 19.02699759241041,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.5737706061673674,
+     "exit_rate_rule": 17.030677863005177,
+     "renewal_rule": 17.112393612076172,
+     "two_param_gate": 1.0972010036884055
+    }
+   },
+   "share_r0.3": {
+    "oracle": 0.006848764111854411,
+    "oracle_read_or_act": 0.008187647226054475,
+    "always_read": 0.3,
+    "never_read": 0.011878939728259881,
+    "ttl_single": 0.011878939728259881,
+    "ttl_class": 0.011878939728259881,
+    "ttl_state": 0.0099133879248903,
+    "exit_rate_rule": 0.23282957941159854,
+    "renewal_rule": 0.2388134674756324,
+    "two_param_gate": 0.010418495583056344,
+    "rho": {
+     "always_read": 79.05424796317246,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.4675166483839365,
+     "exit_rate_rule": 60.85725583960878,
+     "renewal_rule": 62.478337902452274,
+     "two_param_gate": 0.6043542622723674
+    }
+   },
+   "uniform_r0.02": {
+    "oracle": 0.007386107283637773,
+    "oracle_read_or_act": 0.007603586753218176,
+    "always_read": 0.02,
+    "never_read": 0.10168200122954626,
+    "ttl_single": 0.020000000000000007,
+    "ttl_class": 0.020000000000000007,
+    "ttl_state": 0.012082034646630633,
+    "exit_rate_rule": 0.01979744746396744,
+    "renewal_rule": 0.01980687277661643,
+    "two_param_gate": 0.009490079583379177,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 7.589164107670527,
+     "ttl_single": 1.0000000000000007,
+     "ttl_class": 1.0000000000000007,
+     "ttl_state": 0.36126965149173984,
+     "exit_rate_rule": 0.9836603917600808,
+     "renewal_rule": 0.9844207175463672,
+     "two_param_gate": 0.15218053743495075
+    }
+   },
+   "uniform_r0.1": {
+    "oracle": 0.011677600648015164,
+    "oracle_read_or_act": 0.01652404004841017,
+    "always_read": 0.1,
+    "never_read": 0.10168200122954626,
+    "ttl_single": 0.09844236713446775,
+    "ttl_class": 0.09844236713446775,
+    "ttl_state": 0.022769623448881258,
+    "exit_rate_rule": 0.09131360252319655,
+    "renewal_rule": 0.09166681336413983,
+    "two_param_gate": 0.022718010782264278,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 1.0201495284453357,
+     "ttl_single": 0.9813403419806663,
+     "ttl_class": 0.9813403419806663,
+     "ttl_state": 0.07481894672541756,
+     "exit_rate_rule": 0.8959413287149863,
+     "renewal_rule": 0.900172616874453,
+     "two_param_gate": 0.07420065294782084
+    }
+   },
+   "uniform_r0.3": {
+    "oracle": 0.01533067955881703,
+    "oracle_read_or_act": 0.03800055011552426,
+    "always_read": 0.3,
+    "never_read": 0.10168200122954626,
+    "ttl_single": 0.10168200122954626,
+    "ttl_class": 0.10168200122954626,
+    "ttl_state": 0.04422903502076082,
+    "exit_rate_rule": 0.2401888919253688,
+    "renewal_rule": 0.24550716628986705,
+    "two_param_gate": 0.04112038420541432,
+    "rho": {
+     "always_read": 4.114219216131934,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.09780689347176495,
+     "exit_rate_rule": 3.1749958311695052,
+     "renewal_rule": 3.258509543113284,
+     "two_param_gate": 0.04899125310922927
+    }
+   }
+  },
+  "all": {
+   "n_devices": 139,
+   "share_r0.02": {
+    "oracle": 0.006239694213241702,
+    "oracle_read_or_act": 0.0062523520903473495,
+    "always_read": 0.02,
+    "never_read": 0.012658749568601373,
+    "ttl_single": 0.01348777123981438,
+    "ttl_class": 0.01284066732026021,
+    "ttl_state": 0.0083385906428205,
+    "exit_rate_rule": 0.019562404125915978,
+    "renewal_rule": 0.019574520737051,
+    "two_param_gate": 0.008101692830833432,
+    "rho": {
+     "always_read": 2.1459249065200656,
+     "never_read": 1.0,
+     "ttl_single": 1.129405281833831,
+     "ttl_class": 1.028396263621847,
+     "ttl_state": 0.32564925288427876,
+     "exit_rate_rule": 2.0776188303564487,
+     "renewal_rule": 2.079510160261618,
+     "two_param_gate": 0.2886709335103721
+    }
+   },
+   "share_r0.1": {
+    "oracle": 0.0072042980608000564,
+    "oracle_read_or_act": 0.0074848321873171135,
+    "always_read": 0.1,
+    "never_read": 0.012658749568601373,
+    "ttl_single": 0.012658749568601373,
+    "ttl_class": 0.012658749568601373,
+    "ttl_state": 0.010218701325982023,
+    "exit_rate_rule": 0.08872559718580883,
+    "renewal_rule": 0.0891119244474789,
+    "two_param_gate": 0.012922471402062301,
+    "rho": {
+     "always_read": 17.88106786307418,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.5283944325346598,
+     "exit_rate_rule": 15.701983431812414,
+     "renewal_rule": 15.776651663482973,
+     "two_param_gate": 1.0509714040689742
+    }
+   },
+   "share_r0.3": {
+    "oracle": 0.007692440316916945,
+    "oracle_read_or_act": 0.008986353285519324,
+    "always_read": 0.3,
+    "never_read": 0.012658749568601373,
+    "ttl_single": 0.012658749568601373,
+    "ttl_class": 0.012658749568601373,
+    "ttl_state": 0.010644044162035791,
+    "exit_rate_rule": 0.22792224797646024,
+    "renewal_rule": 0.233853487665948,
+    "two_param_gate": 0.011153711302835807,
+    "rho": {
+     "always_read": 79.24353045860515,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.45139215616601547,
+     "exit_rate_rule": 59.61663116247344,
+     "renewal_rule": 61.23171821525468,
+     "two_param_gate": 0.5901754196030101
+    }
+   },
+   "uniform_r0.02": {
+    "oracle": 0.0075489189224283,
+    "oracle_read_or_act": 0.0077590407573700886,
+    "always_read": 0.02,
+    "never_read": 0.10137335039625638,
+    "ttl_single": 0.020000000000000004,
+    "ttl_class": 0.0198688435808358,
+    "ttl_state": 0.012057841311116129,
+    "exit_rate_rule": 0.019585674010650526,
+    "renewal_rule": 0.019596707389231152,
+    "two_param_gate": 0.009645296021718701,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 7.647628570877726,
+     "ttl_single": 1.0000000000000002,
+     "ttl_class": 0.9892854459716327,
+     "ttl_state": 0.351181673636752,
+     "exit_rate_rule": 0.966152490083738,
+     "renewal_rule": 0.9670538392641358,
+     "two_param_gate": 0.15409374600150694
+    }
+   },
+   "uniform_r0.1": {
+    "oracle": 0.012595220304442812,
+    "oracle_read_or_act": 0.017285901221362664,
+    "always_read": 0.1,
+    "never_read": 0.10137335039625638,
+    "ttl_single": 0.09597816965114282,
+    "ttl_class": 0.09637055121028071,
+    "ttl_state": 0.02328908879486601,
+    "exit_rate_rule": 0.08975427238870906,
+    "renewal_rule": 0.09009334864780202,
+    "two_param_gate": 0.02361699906024851,
+    "rho": {
+     "always_read": 1.0,
+     "never_read": 1.0166035829022546,
+     "ttl_single": 0.9513767252712195,
+     "ttl_class": 0.9561205544966093,
+     "ttl_state": 0.07257756128818266,
+     "exit_rate_rule": 0.876130819744395,
+     "renewal_rule": 0.8802301965628551,
+     "two_param_gate": 0.07654194305893817
+    }
+   },
+   "uniform_r0.3": {
+    "oracle": 0.017198649865370404,
+    "oracle_read_or_act": 0.039111057789648865,
+    "always_read": 0.3,
+    "never_read": 0.10137335039625638,
+    "ttl_single": 0.10137335039625638,
+    "ttl_class": 0.10137335039625638,
+    "ttl_state": 0.04512380327229393,
+    "exit_rate_rule": 0.23497016732111126,
+    "renewal_rule": 0.24027152643572813,
+    "two_param_gate": 0.042568092906715635,
+    "rho": {
+     "always_read": 4.190159585974908,
+     "never_read": 1.0,
+     "ttl_single": 1.0,
+     "ttl_class": 1.0,
+     "ttl_state": 0.09657121880550489,
+     "exit_rate_rule": 3.145709888470716,
+     "renewal_rule": 3.230855470052694,
+     "two_param_gate": 0.055523736315162546
+    }
+   }
+  }
+ }
+}

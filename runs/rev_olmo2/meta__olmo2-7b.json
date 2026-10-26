@@ -1,0 +1,112 @@
+{
+ "model_id": "allenai/OLMo-2-1124-7B-Instruct",
+ "short": "olmo2-7b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/age_rev_reason.jsonl",
+   "generate_batched",
+   null,
+   null,
+   "age_reason",
+   "8"
+  ],
+  [
+   "/kaggle/input/**/order_rev_reason.jsonl",
+   "generate_batched",
+   null,
+   null,
+   "order_reason",
+   "8"
+  ],
+  [
+   "/kaggle/input/**/age_rev_rule.jsonl",
+   "letters",
+   null,
+   null,
+   "age_rule"
+  ],
+  [
+   "/kaggle/input/**/age_rev_pgiven.jsonl",
+   "letters",
+   null,
+   null,
+   "age_pgiven"
+  ],
+  [
+   "/kaggle/input/**/age_rev_share.jsonl",
+   "letters",
+   null,
+   null,
+   "age_share"
+  ],
+  [
+   "/kaggle/input/**/order_rev_dstated.jsonl",
+   "letters",
+   null,
+   null,
+   "order_dstated",
+   "Answer:"
+  ],
+  [
+   "/kaggle/input/**/order_rev_free.jsonl",
+   "generate_batched",
+   null,
+   null,
+   "order_vfree",
+   "8"
+  ],
+  [
+   "/kaggle/input/**/order_rev_ext.jsonl",
+   "generate_batched",
+   null,
+   null,
+   "order_vext",
+   "8"
+  ],
+  [
+   "/kaggle/input/**/age_rev_ext.jsonl",
+   "generate_batched",
+   null,
+   null,
+   "age_vext",
+   "8"
+  ]
+ ],
+ "age_reason": {
+  "n": 144,
+  "seconds": 1078.8014607429504
+ },
+ "order_reason": {
+  "n": 240,
+  "seconds": 2267.62867975235
+ },
+ "age_rule": {
+  "n": 360,
+  "seconds": 123.3740336894989
+ },
+ "age_pgiven": {
+  "n": 360,
+  "seconds": 104.42397451400757
+ },
+ "age_share": {
+  "n": 360,
+  "seconds": 104.10746383666992
+ },
+ "order_dstated": {
+  "n": 864,
+  "seconds": 358.8251516819
+ },
+ "order_vfree": {
+  "n": 216,
+  "seconds": 108.64046382904053
+ },
+ "order_vext": {
+  "n": 120,
+  "seconds": 381.09174966812134
+ },
+ "age_vext": {
+  "n": 120,
+  "seconds": 162.5878894329071
+ }
+}

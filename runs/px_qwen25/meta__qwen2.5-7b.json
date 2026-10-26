@@ -1,0 +1,30 @@
+{
+ "model_id": "Qwen/Qwen2.5-7B-Instruct",
+ "short": "qwen2.5-7b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/order_probes.jsonl",
+   "letters",
+   null,
+   null,
+   "order_px",
+   "Answer:"
+  ],
+  [
+   "/kaggle/input/**/age_noread.jsonl",
+   "letters",
+   null,
+   null,
+   "age_noread"
+  ]
+ ],
+ "order_px": {
+  "n": 2496,
+  "seconds": 1182.57777094841
+ },
+ "age_noread": {
+  "n": 144,
+  "seconds": 40.30695080757141
+ }
+}

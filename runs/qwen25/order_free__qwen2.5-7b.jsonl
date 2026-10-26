@@ -1,0 +1,216 @@
+{"id": "ord-00000-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00008-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00020-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00028-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00040-free", "model": "qwen2.5-7b", "text": "\"Flow switch FS2 reports no flow\" started this incident.<|im_end|>"}
+{"id": "ord-00048-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00060-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00068-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00080-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00088-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00100-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00108-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00120-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00128-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00140-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00148-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00160-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00168-free", "model": "qwen2.5-7b", "text": "\"booster pump BP2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00208-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00216-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00228-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00236-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00248-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00256-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00268-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00276-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00288-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00296-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00308-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00316-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00328-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00336-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00348-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00356-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00368-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00376-free", "model": "qwen2.5-7b", "text": "\"irrigation pump IP1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00416-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00424-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00436-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00444-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00456-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00464-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00476-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00484-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00496-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00504-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00516-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00524-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00536-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00544-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00556-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00564-free", "model": "qwen2.5-7b", "text": "\"supply fan SF1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-00576-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00584-free", "model": "qwen2.5-7b", "text": "\"duct static pressure low on DP1\" started this incident.<|im_end|>"}
+{"id": "ord-00624-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00632-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00644-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00652-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00664-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00672-free", "model": "qwen2.5-7b", "text": "\"breaker CB4 opened\" started this incident.<|im_end|>"}
+{"id": "ord-00684-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00692-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00704-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00712-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00724-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00732-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00744-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00752-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00764-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00772-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00784-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00792-free", "model": "qwen2.5-7b", "text": "\"voltage sag on feeder F4\" started this incident.<|im_end|>"}
+{"id": "ord-00832-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00840-free", "model": "qwen2.5-7b", "text": "Based on the maintenance history indicating that \"PV inverter INV3 disconnected\" came first in 90% of cases, the event that likely started this incident was \"PV inverter INV3 disconnected\".<|im_end|>"}
+{"id": "ord-00852-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00860-free", "model": "qwen2.5-7b", "text": "\"frequency deviation on bus B1\" started this incident.<|im_end|>"}
+{"id": "ord-00872-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00880-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00892-free", "model": "qwen2.5-7b", "text": "\"frequency deviation on bus B1\" started this incident.<|im_end|>"}
+{"id": "ord-00900-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00912-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00920-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00932-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00940-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00952-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00960-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00972-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00980-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-00992-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-01000-free", "model": "qwen2.5-7b", "text": "\"PV inverter INV3 disconnected\" started this incident.<|im_end|>"}
+{"id": "ord-01040-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01048-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01060-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01068-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01080-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01088-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01100-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01108-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01120-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01128-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01140-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01148-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01160-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01168-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01180-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01188-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01200-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01208-free", "model": "qwen2.5-7b", "text": "\"switch port 12 link down\" started this incident.<|im_end|>"}
+{"id": "ord-01248-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01256-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01268-free", "model": "qwen2.5-7b", "text": "\"jam sensor J1 blocked\" started this incident.<|im_end|>"}
+{"id": "ord-01276-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01288-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01296-free", "model": "qwen2.5-7b", "text": "\"jam sensor J1 blocked\" started this incident.<|im_end|>"}
+{"id": "ord-01308-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01316-free", "model": "qwen2.5-7b", "text": "\"jam sensor J1 blocked\" started this incident.<|im_end|>"}
+{"id": "ord-01328-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01336-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01348-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01356-free", "model": "qwen2.5-7b", "text": "\"jam sensor J1 blocked\" started this incident.<|im_end|>"}
+{"id": "ord-01368-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01376-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01388-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01396-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01408-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01416-free", "model": "qwen2.5-7b", "text": "\"conveyor C1 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01456-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01464-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01476-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01484-free", "model": "qwen2.5-7b", "text": "\"coolant pressure low on CP3\" started this incident.<|im_end|>"}
+{"id": "ord-01496-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01504-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01516-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01524-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01536-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01544-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01556-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01564-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01576-free", "model": "qwen2.5-7b", "text": "\"coolant pressure low on CP3\" started this incident.<|im_end|>"}
+{"id": "ord-01584-free", "model": "qwen2.5-7b", "text": "\"coolant pressure low on CP3\" started this incident.<|im_end|>"}
+{"id": "ord-01596-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01604-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01616-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01624-free", "model": "qwen2.5-7b", "text": "\"spindle M3 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01664-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01672-free", "model": "qwen2.5-7b", "text": "\"chilled-water flow low on FT-CW2\" started this incident.<|im_end|>"}
+{"id": "ord-01684-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01692-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01704-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01712-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01724-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01732-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01744-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01752-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01764-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01772-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01784-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01792-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01804-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01812-free", "model": "qwen2.5-7b", "text": "\"chilled-water flow low on FT-CW2\" started this incident.<|im_end|>"}
+{"id": "ord-01824-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01832-free", "model": "qwen2.5-7b", "text": "\"cooling unit CRAC-2 stopped\" started this incident.<|im_end|>"}
+{"id": "ord-01872-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01880-free", "model": "qwen2.5-7b", "text": "Based on the maintenance history and the timestamps provided, the \"battery rack BR2 isolated\" event likely started this incident.<|im_end|>"}
+{"id": "ord-01892-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01900-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-01912-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01920-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-01932-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01940-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01952-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01960-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01972-free", "model": "qwen2.5-7b", "text": "\"DC bus voltage dip\" started this incident.<|im_end|>"}
+{"id": "ord-01980-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-01992-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02000-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02012-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02020-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02032-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02040-free", "model": "qwen2.5-7b", "text": "\"battery rack BR2 isolated\" started this incident.<|im_end|>"}
+{"id": "ord-02080-free", "model": "qwen2.5-7b", "text": "\"oil pressure low on OP1\" started this incident.<|im_end|>"}
+{"id": "ord-02088-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02100-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02108-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02120-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02128-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02140-free", "model": "qwen2.5-7b", "text": "\"oil pressure low on OP1\" started this incident.<|im_end|>"}
+{"id": "ord-02148-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02160-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02168-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02180-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02188-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02200-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02208-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02220-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02228-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02240-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02248-free", "model": "qwen2.5-7b", "text": "\"compressor CP1 tripped\" started this incident.<|im_end|>"}
+{"id": "ord-02288-free", "model": "qwen2.5-7b", "text": "Based on the maintenance history where the \"solenoid valve SV4 closed\" came first in 70% of cases, the event that likely started this incident was \"solenoid valve SV4 closed\".<|im_end|>"}
+{"id": "ord-02296-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02308-free", "model": "qwen2.5-7b", "text": "The \"flow meter FM4 reads zero flow\" event likely started this incident.<|im_end|>"}
+{"id": "ord-02316-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02328-free", "model": "qwen2.5-7b", "text": "Based on the maintenance history where the \"solenoid valve SV4 closed\" came first in 70% of cases, the event that likely started this incident was \"solenoid valve SV4 closed\".<|im_end|>"}
+{"id": "ord-02336-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02348-free", "model": "qwen2.5-7b", "text": "The \"flow meter FM4 reads zero flow\" event likely started this incident.<|im_end|>"}
+{"id": "ord-02356-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02368-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02376-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02388-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02396-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02408-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02416-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02428-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02436-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02448-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}
+{"id": "ord-02456-free", "model": "qwen2.5-7b", "text": "\"solenoid valve SV4 closed\" started this incident.<|im_end|>"}

@@ -1,0 +1,216 @@
+{"id": "ordv-free-ord-01368", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01416", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01398", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01335", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01318", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01281", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01391", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01303", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01299", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01419", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01415", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01354", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01302", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01269", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-01261", "model": "llama3.1-8b", "text": "jam sensor J1 blocked"}
+{"id": "ordv-free-ord-01377", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-00785", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01586", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00674", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-00705", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01518", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00671", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00744", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01597", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00676", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00750", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01499", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-01927", "model": "llama3.1-8b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-02001", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-02000", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01935", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-02014", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01498", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-02012", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-00704", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01926", "model": "llama3.1-8b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-00797", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01962", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-02041", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01940", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-00686", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01249", "model": "llama3.1-8b", "text": "conveyor C1 stopped"}
+{"id": "ordv-free-ord-02046", "model": "llama3.1-8b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01549", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01609", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01608", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00734", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-00753", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01521", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00654", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-00773", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01491", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-00737", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01483", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-02036", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01556", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00779", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-00777", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01626", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-01955", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01922", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01746", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01479", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00659", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01901", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01579", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-01666", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01947", "model": "llama3.1-8b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-01839", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00791", "model": "llama3.1-8b", "text": "voltage sag on feeder F4"}
+{"id": "ordv-free-ord-01461", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01809", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-01709", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00646", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01517", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-00537", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01524", "model": "llama3.1-8b", "text": "spindle M3 stopped"}
+{"id": "ordv-free-ord-01471", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01529", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01836", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00587", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01727", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-02034", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01716", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00565", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01980", "model": "llama3.1-8b", "text": "battery rack BR2 isolated"}
+{"id": "ordv-free-ord-01730", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-01134", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00133", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01085", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00045", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00746", "model": "llama3.1-8b", "text": "breaker CB4 opened"}
+{"id": "ordv-free-ord-01112", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00024", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00052", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00109", "model": "llama3.1-8b", "text": "booster pump BP2 stopped"}
+{"id": "ordv-free-ord-01784", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-00570", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01194", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01093", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01190", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01692", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01773", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-00563", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01916", "model": "llama3.1-8b", "text": "DC bus voltage dip"}
+{"id": "ordv-free-ord-00161", "model": "llama3.1-8b", "text": "booster pump BP2 stopped"}
+{"id": "ordv-free-ord-01482", "model": "llama3.1-8b", "text": "coolant pressure low on CP3"}
+{"id": "ordv-free-ord-01767", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01208", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01143", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00566", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-00445", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-01789", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00113", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00505", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-00423", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-02162", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02255", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00584", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-02206", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02122", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02409", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-02214", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-01192", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-02246", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-01187", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00144", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01050", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00465", "model": "llama3.1-8b", "text": "supply fan SF1 stopped"}
+{"id": "ordv-free-ord-02180", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-00006", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02107", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00074", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-01095", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01132", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-00033", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-00111", "model": "llama3.1-8b", "text": "booster pump BP2 stopped"}
+{"id": "ordv-free-ord-01704", "model": "llama3.1-8b", "text": "cooling unit CRAC-2 stopped"}
+{"id": "ordv-free-ord-01081", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00249", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00362", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-02316", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00295", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00025", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02225", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00268", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02101", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00309", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00591", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01171", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-02297", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-01790", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-00375", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00232", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-01065", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01062", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-01061", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-02334", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00520", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-02160", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-01140", "model": "llama3.1-8b", "text": "switch port 12 link down"}
+{"id": "ordv-free-ord-00551", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-01831", "model": "llama3.1-8b", "text": "chilled-water flow low on FT-CW2"}
+{"id": "ordv-free-ord-02302", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-02252", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02379", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00234", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00222", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00213", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00164", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02359", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-01165", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01124", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-01204", "model": "llama3.1-8b", "text": "camera CAM-07 offline"}
+{"id": "ordv-free-ord-02140", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02150", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02111", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02131", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02108", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02420", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-02290", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-02087", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02106", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-02440", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00274", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00273", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00251", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00915", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00333", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00312", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02303", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00220", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00999", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-02205", "model": "llama3.1-8b", "text": "oil pressure low on OP1"}
+{"id": "ordv-free-ord-00490", "model": "llama3.1-8b", "text": "duct static pressure low on DP1"}
+{"id": "ordv-free-ord-00219", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-02376", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00132", "model": "llama3.1-8b", "text": "flow switch FS2 reports no flow"}
+{"id": "ordv-free-ord-02242", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-00962", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00923", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-01001", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00853", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-02433", "model": "llama3.1-8b", "text": "flow meter FM4 reads zero flow"}
+{"id": "ordv-free-ord-00874", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-02090", "model": "llama3.1-8b", "text": "compressor CP1 tripped"}
+{"id": "ordv-free-ord-02296", "model": "llama3.1-8b", "text": "solenoid valve SV4 closed"}
+{"id": "ordv-free-ord-00897", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00899", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00336", "model": "llama3.1-8b", "text": "irrigation pump IP1 stopped"}
+{"id": "ordv-free-ord-00242", "model": "llama3.1-8b", "text": "header pressure low on PT-IR1"}
+{"id": "ordv-free-ord-00894", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00904", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00982", "model": "llama3.1-8b", "text": "PV inverter INV3 disconnected"}
+{"id": "ordv-free-ord-00987", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}
+{"id": "ordv-free-ord-00844", "model": "llama3.1-8b", "text": "frequency deviation on bus B1"}

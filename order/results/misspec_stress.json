@@ -1,0 +1,1730 @@
+{
+ "N_per_cell": 200000,
+ "pis": [
+  0.7,
+  0.9
+ ],
+ "gammas": [
+  0.5,
+  1.0,
+  2.0
+ ],
+ "scenarios": {
+  "nominal": {
+   "attributor (declared)": {
+    "acc": 0.8690483333333333,
+    "A": 0.28343033190391986
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8690483333333333,
+    "A": 0.28343033190391986
+   },
+   "Bayes (true process)": {
+    "acc": 0.8690025,
+    "A": 0.28351461965658015
+   },
+   "earliest timestamp": {
+    "acc": 0.7729374999999999,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7998133333333333,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.718045,
+      "A": 0.15203873309992133
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.718045,
+      "A": 0.15203873309992133
+     },
+     "Bayes (true process)": {
+      "acc": 0.717975,
+      "A": 0.15061113809539606
+     },
+     "earliest timestamp": {
+      "acc": 0.63716,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.699075,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.79673,
+      "A": 0.31768898751038477
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.79673,
+      "A": 0.31768898751038477
+     },
+     "Bayes (true process)": {
+      "acc": 0.79657,
+      "A": 0.31593302666570144
+     },
+     "earliest timestamp": {
+      "acc": 0.76019,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.7008,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.929895,
+      "A": 0.39033481904269407
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.929895,
+      "A": 0.39033481904269407
+     },
+     "Bayes (true process)": {
+      "acc": 0.929895,
+      "A": 0.3945459119934003
+     },
+     "earliest timestamp": {
+      "acc": 0.92164,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700385,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.899105,
+      "A": 0.004447311036444468
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.899105,
+      "A": 0.004447311036444468
+     },
+     "Bayes (true process)": {
+      "acc": 0.899085,
+      "A": 0.0037009945211430306
+     },
+     "earliest timestamp": {
+      "acc": 0.63652,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.898995,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90927,
+      "A": 0.21461279192553473
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90927,
+      "A": 0.21461279192553473
+     },
+     "Bayes (true process)": {
+      "acc": 0.909195,
+      "A": 0.21342640380473354
+     },
+     "earliest timestamp": {
+      "acc": 0.760345,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89963,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.961245,
+      "A": 0.6214593488085398
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.961245,
+      "A": 0.6214593488085398
+     },
+     "Bayes (true process)": {
+      "acc": 0.961295,
+      "A": 0.6228702428591064
+     },
+     "earliest timestamp": {
+      "acc": 0.92177,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899995,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "offsets heavy-tailed (t, 3 dof)": {
+   "attributor (declared)": {
+    "acc": 0.8755283333333335,
+    "A": 0.22289654953124471
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8755283333333335,
+    "A": 0.22289654953124471
+   },
+   "Bayes (true process)": {
+    "acc": 0.8831233333333334,
+    "A": 0.2455224690373623
+   },
+   "earliest timestamp": {
+    "acc": 0.8206725,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7999525000000002,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.7134,
+      "A": 0.06736374904386278
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.7134,
+      "A": 0.06736374904386278
+     },
+     "Bayes (true process)": {
+      "acc": 0.73067,
+      "A": 0.17121161189104095
+     },
+     "earliest timestamp": {
+      "acc": 0.687415,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.7014,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.82543,
+      "A": 0.32617147592081563
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.82543,
+      "A": 0.32617147592081563
+     },
+     "Bayes (true process)": {
+      "acc": 0.8414,
+      "A": 0.2577279536004706
+     },
+     "earliest timestamp": {
+      "acc": 0.82556,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700775,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.951265,
+      "A": 0.33719364342586866
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.951265,
+      "A": 0.33719364342586866
+     },
+     "Bayes (true process)": {
+      "acc": 0.951855,
+      "A": 0.27234795862405425
+     },
+     "earliest timestamp": {
+      "acc": 0.948465,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69754,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.89704,
+      "A": -0.0020183969646846434
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.89704,
+      "A": -0.0020183969646846434
+     },
+     "Bayes (true process)": {
+      "acc": 0.899945,
+      "A": 0.0
+     },
+     "earliest timestamp": {
+      "acc": 0.68735,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899945,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.89985,
+      "A": 0.07694651980740752
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.89985,
+      "A": 0.07694651980740752
+     },
+     "Bayes (true process)": {
+      "acc": 0.9072,
+      "A": 0.25842380037601353
+     },
+     "earliest timestamp": {
+      "acc": 0.825985,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89988,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.966185,
+      "A": 0.5317223059541984
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.966185,
+      "A": 0.5317223059541984
+     },
+     "Bayes (true process)": {
+      "acc": 0.96767,
+      "A": 0.5134234897325944
+     },
+     "earliest timestamp": {
+      "acc": 0.94926,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.900175,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "5% offsets with 10x spread": {
+   "attributor (declared)": {
+    "acc": 0.8419725000000001,
+    "A": 0.17439054322726957
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8419725000000001,
+    "A": 0.17439054322726957
+   },
+   "Bayes (true process)": {
+    "acc": 0.8560633333333333,
+    "A": 0.23886740320932134
+   },
+   "earliest timestamp": {
+    "acc": 0.75115,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7997625,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.700725,
+      "A": 0.10093554844112318
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.700725,
+      "A": 0.10093554844112318
+     },
+     "Bayes (true process)": {
+      "acc": 0.71136,
+      "A": 0.12251516513534044
+     },
+     "earliest timestamp": {
+      "acc": 0.626415,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70058,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.7712,
+      "A": 0.23808334469775083
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.7712,
+      "A": 0.23808334469775083
+     },
+     "Bayes (true process)": {
+      "acc": 0.77936,
+      "A": 0.2933289416054228
+     },
+     "earliest timestamp": {
+      "acc": 0.737655,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.699485,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.896865,
+      "A": 0.2454632849714864
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.896865,
+      "A": 0.2454632849714864
+     },
+     "Bayes (true process)": {
+      "acc": 0.900385,
+      "A": 0.3769744246412987
+     },
+     "earliest timestamp": {
+      "acc": 0.8883,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69851,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.87639,
+      "A": -0.019708036629756398
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.87639,
+      "A": -0.019708036629756398
+     },
+     "Bayes (true process)": {
+      "acc": 0.899585,
+      "A": -1.4877631481113873e-05
+     },
+     "earliest timestamp": {
+      "acc": 0.626925,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89959,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.879425,
+      "A": 0.11997367653042157
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.879425,
+      "A": 0.11997367653042157
+     },
+     "Bayes (true process)": {
+      "acc": 0.902015,
+      "A": 0.12466158355581802
+     },
+     "earliest timestamp": {
+      "acc": 0.739165,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89981,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.92723,
+      "A": 0.3615954413525919
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.92723,
+      "A": 0.3615954413525919
+     },
+     "Bayes (true process)": {
+      "acc": 0.943675,
+      "A": 0.5157391819495292
+     },
+     "earliest timestamp": {
+      "acc": 0.88844,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.9006,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "latency exponential, declared mean": {
+   "attributor (declared)": {
+    "acc": 0.8348658333333333,
+    "A": 0.21429896064593815
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8348658333333333,
+    "A": 0.21429896064593815
+   },
+   "Bayes (true process)": {
+    "acc": 0.8423708333333333,
+    "A": 0.2314581408565979
+   },
+   "earliest timestamp": {
+    "acc": 0.7168041666666666,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7999591666666667,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.714475,
+      "A": 0.14699810579932793
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.714475,
+      "A": 0.14699810579932793
+     },
+     "Bayes (true process)": {
+      "acc": 0.71464,
+      "A": 0.12511627537172054
+     },
+     "earliest timestamp": {
+      "acc": 0.628285,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70028,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.761995,
+      "A": 0.25817108871858263
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.761995,
+      "A": 0.25817108871858263
+     },
+     "Bayes (true process)": {
+      "acc": 0.767415,
+      "A": 0.2964611808869426
+     },
+     "earliest timestamp": {
+      "acc": 0.71455,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69964,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.82839,
+      "A": 0.21859678301474927
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.82839,
+      "A": 0.21859678301474927
+     },
+     "Bayes (true process)": {
+      "acc": 0.837255,
+      "A": 0.39311782975102094
+     },
+     "earliest timestamp": {
+      "acc": 0.808795,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69997,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90044,
+      "A": 0.009838777077721073
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90044,
+      "A": 0.009838777077721073
+     },
+     "Bayes (true process)": {
+      "acc": 0.90045,
+      "A": 0.010833350324238378
+     },
+     "earliest timestamp": {
+      "acc": 0.627605,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90016,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.901985,
+      "A": 0.23614702511121877
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.901985,
+      "A": 0.23614702511121877
+     },
+     "Bayes (true process)": {
+      "acc": 0.907215,
+      "A": 0.1546672073716744
+     },
+     "earliest timestamp": {
+      "acc": 0.71311,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.900185,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90191,
+      "A": 0.41604198415402927
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90191,
+      "A": 0.41604198415402927
+     },
+     "Bayes (true process)": {
+      "acc": 0.92725,
+      "A": 0.40855300143399065
+     },
+     "earliest timestamp": {
+      "acc": 0.80848,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89952,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "latency log-normal (cv 1), declared mean": {
+   "attributor (declared)": {
+    "acc": 0.8407283333333334,
+    "A": 0.22463094723407007
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8407283333333334,
+    "A": 0.22463094723407007
+   },
+   "Bayes (true process)": {
+    "acc": 0.8454166666666666,
+    "A": 0.2367752591816886
+   },
+   "earliest timestamp": {
+    "acc": 0.7248375,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7994991666666666,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.713635,
+      "A": 0.14779860204305528
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.713635,
+      "A": 0.14779860204305528
+     },
+     "Bayes (true process)": {
+      "acc": 0.7144,
+      "A": 0.13195563559042212
+     },
+     "earliest timestamp": {
+      "acc": 0.62745,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69883,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.76543,
+      "A": 0.26315773949593435
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.76543,
+      "A": 0.26315773949593435
+     },
+     "Bayes (true process)": {
+      "acc": 0.76886,
+      "A": 0.2928993782629874
+     },
+     "earliest timestamp": {
+      "acc": 0.718655,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700515,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.847925,
+      "A": 0.24669499253502591
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.847925,
+      "A": 0.24669499253502591
+     },
+     "Bayes (true process)": {
+      "acc": 0.85259,
+      "A": 0.3931725957903782
+     },
+     "earliest timestamp": {
+      "acc": 0.829695,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.698675,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.900495,
+      "A": 0.010457773294755501
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.900495,
+      "A": 0.010457773294755501
+     },
+     "Bayes (true process)": {
+      "acc": 0.900475,
+      "A": 0.011385764665682085
+     },
+     "earliest timestamp": {
+      "acc": 0.62596,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.9001,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.902635,
+      "A": 0.2390964816763157
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.902635,
+      "A": 0.2390964816763157
+     },
+     "Bayes (true process)": {
+      "acc": 0.9063,
+      "A": 0.15890079293659598
+     },
+     "earliest timestamp": {
+      "acc": 0.718955,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.898695,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.91425,
+      "A": 0.44058009435933365
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.91425,
+      "A": 0.44058009435933365
+     },
+     "Bayes (true process)": {
+      "acc": 0.929875,
+      "A": 0.4323373878440657
+     },
+     "earliest timestamp": {
+      "acc": 0.82831,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90018,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "sigma declared 0.5x": {
+   "attributor (declared)": {
+    "acc": 0.8289508333333334,
+    "A": 0.17338511989208127
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8687233333333334,
+    "A": 0.28214421865444433
+   },
+   "Bayes (true process)": {
+    "acc": 0.8686916666666665,
+    "A": 0.28004449233860357
+   },
+   "earliest timestamp": {
+    "acc": 0.7731149999999999,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.8000116666666667,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.67562,
+      "A": 0.10262284116691855
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.717715,
+      "A": 0.14479694820544875
+     },
+     "Bayes (true process)": {
+      "acc": 0.71757,
+      "A": 0.14157961433785893
+     },
+     "earliest timestamp": {
+      "acc": 0.638055,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70052,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.776975,
+      "A": 0.11855555057817568
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.795625,
+      "A": 0.3116132652046515
+     },
+     "Bayes (true process)": {
+      "acc": 0.795655,
+      "A": 0.31076610455103015
+     },
+     "earliest timestamp": {
+      "acc": 0.76109,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.699985,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.925415,
+      "A": 0.12209570650700563
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.930085,
+      "A": 0.39604212677699224
+     },
+     "Bayes (true process)": {
+      "acc": 0.93001,
+      "A": 0.38592083660341636
+     },
+     "earliest timestamp": {
+      "acc": 0.921415,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700025,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.816205,
+      "A": 0.16313083739349343
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.898915,
+      "A": 0.005899126292487011
+     },
+     "Bayes (true process)": {
+      "acc": 0.89884,
+      "A": 0.0063444606228793
+     },
+     "earliest timestamp": {
+      "acc": 0.63854,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.898735,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.840095,
+      "A": 0.256018369839508
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90857,
+      "A": 0.20975402667883825
+     },
+     "Bayes (true process)": {
+      "acc": 0.908565,
+      "A": 0.20985865374922397
+     },
+     "earliest timestamp": {
+      "acc": 0.759635,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899465,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.939395,
+      "A": 0.27788741386738636
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.96143,
+      "A": 0.6247598187682484
+     },
+     "Bayes (true process)": {
+      "acc": 0.96151,
+      "A": 0.6257972841672128
+     },
+     "earliest timestamp": {
+      "acc": 0.919955,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90134,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "sigma declared 2x": {
+   "attributor (declared)": {
+    "acc": 0.8317383333333335,
+    "A": 0.1129027501283465
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8692391666666667,
+    "A": 0.2824180137057183
+   },
+   "Bayes (true process)": {
+    "acc": 0.8691991666666667,
+    "A": 0.28075757588588185
+   },
+   "earliest timestamp": {
+    "acc": 0.7730941666666666,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.8001091666666666,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.70066,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.71899,
+      "A": 0.14903000321670867
+     },
+     "Bayes (true process)": {
+      "acc": 0.718865,
+      "A": 0.14882004353955547
+     },
+     "earliest timestamp": {
+      "acc": 0.63942,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70066,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.71301,
+      "A": 0.053748565048434394
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.796165,
+      "A": 0.31751239798178754
+     },
+     "Bayes (true process)": {
+      "acc": 0.795865,
+      "A": 0.3163173810503723
+     },
+     "earliest timestamp": {
+      "acc": 0.759405,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70048,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.871375,
+      "A": 0.5748147250599045
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.92855,
+      "A": 0.38989114009305736
+     },
+     "Bayes (true process)": {
+      "acc": 0.928605,
+      "A": 0.3803340447481032
+     },
+     "earliest timestamp": {
+      "acc": 0.920275,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69867,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.901035,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.900995,
+      "A": 0.0032738166988324213
+     },
+     "Bayes (true process)": {
+      "acc": 0.90104,
+      "A": 0.0032835338910470746
+     },
+     "earliest timestamp": {
+      "acc": 0.63764,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.901035,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90078,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90973,
+      "A": 0.20942040766614123
+     },
+     "Bayes (true process)": {
+      "acc": 0.909835,
+      "A": 0.20986449979131638
+     },
+     "earliest timestamp": {
+      "acc": 0.760955,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90078,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90357,
+      "A": 0.04885321066174009
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.961005,
+      "A": 0.6253803165777825
+     },
+     "Bayes (true process)": {
+      "acc": 0.960985,
+      "A": 0.6259259522948966
+     },
+     "earliest timestamp": {
+      "acc": 0.92087,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89903,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "latency declared 0.5x": {
+   "attributor (declared)": {
+    "acc": 0.8574875,
+    "A": 0.22842861847713136
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.86939,
+    "A": 0.28420365092729355
+   },
+   "Bayes (true process)": {
+    "acc": 0.8693833333333333,
+    "A": 0.283929658790014
+   },
+   "earliest timestamp": {
+    "acc": 0.7735374999999999,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.8004391666666666,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.703035,
+      "A": 0.021937172009665717
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.71792,
+      "A": 0.14754738649277255
+     },
+     "Bayes (true process)": {
+      "acc": 0.7179,
+      "A": 0.14492371790991276
+     },
+     "earliest timestamp": {
+      "acc": 0.639485,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.69933,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.77403,
+      "A": 0.29365429212645666
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.79574,
+      "A": 0.31887128525129893
+     },
+     "Bayes (true process)": {
+      "acc": 0.79576,
+      "A": 0.31812478294716806
+     },
+     "earliest timestamp": {
+      "acc": 0.758615,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700775,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.922935,
+      "A": 0.5781160477679004
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.93126,
+      "A": 0.39883676411787783
+     },
+     "Bayes (true process)": {
+      "acc": 0.93134,
+      "A": 0.4038486611854539
+     },
+     "earliest timestamp": {
+      "acc": 0.92184,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70137,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.90036,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.900375,
+      "A": 0.0037963766723125847
+     },
+     "Bayes (true process)": {
+      "acc": 0.90038,
+      "A": 0.0031866752597191628
+     },
+     "earliest timestamp": {
+      "acc": 0.63889,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90036,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.9003,
+      "A": 0.009342571573446312
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90888,
+      "A": 0.2103643848479595
+     },
+     "Bayes (true process)": {
+      "acc": 0.90874,
+      "A": 0.20827977249691054
+     },
+     "earliest timestamp": {
+      "acc": 0.76016,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89966,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.944265,
+      "A": 0.4675216273853191
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.962165,
+      "A": 0.62580570818154
+     },
+     "Bayes (true process)": {
+      "acc": 0.96218,
+      "A": 0.6252143429409194
+     },
+     "earliest timestamp": {
+      "acc": 0.922235,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90114,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "latency declared 2x": {
+   "attributor (declared)": {
+    "acc": 0.8568308333333334,
+    "A": 0.25011852501708415
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8687975,
+    "A": 0.282959817730884
+   },
+   "Bayes (true process)": {
+    "acc": 0.8687408333333334,
+    "A": 0.2820547562300206
+   },
+   "earliest timestamp": {
+    "acc": 0.7733500000000001,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7995658333333333,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.70279,
+      "A": 0.1639608818907694
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.71742,
+      "A": 0.14825552928433106
+     },
+     "Bayes (true process)": {
+      "acc": 0.717295,
+      "A": 0.14792051371694415
+     },
+     "earliest timestamp": {
+      "acc": 0.64027,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.698695,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.787405,
+      "A": 0.21120007809837515
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.79556,
+      "A": 0.313813823054792
+     },
+     "Bayes (true process)": {
+      "acc": 0.79542,
+      "A": 0.3135264758974725
+     },
+     "earliest timestamp": {
+      "acc": 0.759905,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70026,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.928245,
+      "A": 0.22701009653826398
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.93073,
+      "A": 0.3966103229943201
+     },
+     "Bayes (true process)": {
+      "acc": 0.93073,
+      "A": 0.39435856532438307
+     },
+     "earliest timestamp": {
+      "acc": 0.92136,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70032,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.884445,
+      "A": 0.09737611957691739
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.898585,
+      "A": 0.004118672320549965
+     },
+     "Bayes (true process)": {
+      "acc": 0.8986,
+      "A": 0.003980286170270242
+     },
+     "earliest timestamp": {
+      "acc": 0.63783,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.898485,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.88583,
+      "A": 0.3384105513220097
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.90995,
+      "A": 0.2175568802226009
+     },
+     "Bayes (true process)": {
+      "acc": 0.90989,
+      "A": 0.2162434760448919
+     },
+     "earliest timestamp": {
+      "acc": 0.759285,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.9004,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.95227,
+      "A": 0.46275342267616937
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.96054,
+      "A": 0.61740367850871
+     },
+     "Bayes (true process)": {
+      "acc": 0.96051,
+      "A": 0.6162992202261615
+     },
+     "earliest timestamp": {
+      "acc": 0.92145,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899235,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "prior declared 0.9 when 0.7, 0.7 when 0.9": {
+   "attributor (declared)": {
+    "acc": 0.8409049999999999,
+    "A": 0.28193790877380753
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8688066666666666,
+    "A": 0.2805125213673392
+   },
+   "Bayes (true process)": {
+    "acc": 0.8688108333333334,
+    "A": 0.2795497951747976
+   },
+   "earliest timestamp": {
+    "acc": 0.7728783333333333,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.7999283333333334,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.70035,
+      "A": 0.00410728380166403
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.71761,
+      "A": 0.14757582718175355
+     },
+     "Bayes (true process)": {
+      "acc": 0.71765,
+      "A": 0.14671973632210467
+     },
+     "earliest timestamp": {
+      "acc": 0.638045,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.699605,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.752135,
+      "A": 0.21363019972231934
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.79633,
+      "A": 0.3155128253038437
+     },
+     "Bayes (true process)": {
+      "acc": 0.796365,
+      "A": 0.3160204895819123
+     },
+     "earliest timestamp": {
+      "acc": 0.759975,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70033,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.91147,
+      "A": 0.6245522977104603
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.929635,
+      "A": 0.39082222743813144
+     },
+     "Bayes (true process)": {
+      "acc": 0.92965,
+      "A": 0.3811312336692414
+     },
+     "earliest timestamp": {
+      "acc": 0.920785,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70059,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.86576,
+      "A": 0.14859949177151588
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.89989,
+      "A": 0.004488251672079668
+     },
+     "Bayes (true process)": {
+      "acc": 0.89982,
+      "A": 0.0047146629760390635
+     },
+     "earliest timestamp": {
+      "acc": 0.636555,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89978,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.868465,
+      "A": 0.31373276909240966
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.908765,
+      "A": 0.2065957121844355
+     },
+     "Bayes (true process)": {
+      "acc": 0.908755,
+      "A": 0.21111178530715824
+     },
+     "earliest timestamp": {
+      "acc": 0.760865,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899915,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.94725,
+      "A": 0.387005410544476
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.96061,
+      "A": 0.6180802844237911
+     },
+     "Bayes (true process)": {
+      "acc": 0.960625,
+      "A": 0.61760086319233
+     },
+     "earliest timestamp": {
+      "acc": 0.921045,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89935,
+      "A": 0.0
+     }
+    }
+   ]
+  },
+  "prior ignored (declared 1/2)": {
+   "attributor (declared)": {
+    "acc": 0.7728041666666666,
+    "A": 0.0
+   },
+   "Bayes (nominal model)": {
+    "acc": 0.8692216666666668,
+    "A": 0.2839291506365978
+   },
+   "Bayes (true process)": {
+    "acc": 0.8692316666666667,
+    "A": 0.28340925739078493
+   },
+   "earliest timestamp": {
+    "acc": 0.7728041666666666,
+    "A": 0.0
+   },
+   "maintenance history": {
+    "acc": 0.8000016666666667,
+    "A": 0.0
+   },
+   "by_cell": [
+    {
+     "attributor (declared)": {
+      "acc": 0.637575,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.71795,
+      "A": 0.14634729742588948
+     },
+     "Bayes (true process)": {
+      "acc": 0.71801,
+      "A": 0.1461924598560589
+     },
+     "earliest timestamp": {
+      "acc": 0.637575,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70028,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.75962,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.797095,
+      "A": 0.31920361578240186
+     },
+     "Bayes (true process)": {
+      "acc": 0.79715,
+      "A": 0.3199317529297836
+     },
+     "earliest timestamp": {
+      "acc": 0.75962,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.70065,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.92141,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.93,
+      "A": 0.3949252153975056
+     },
+     "Bayes (true process)": {
+      "acc": 0.93,
+      "A": 0.3919381679918106
+     },
+     "earliest timestamp": {
+      "acc": 0.92141,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.700075,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.63753,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.899405,
+      "A": 0.0038560819215454067
+     },
+     "Bayes (true process)": {
+      "acc": 0.899385,
+      "A": 0.0036056173530798485
+     },
+     "earliest timestamp": {
+      "acc": 0.63753,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.89936,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.758995,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.909455,
+      "A": 0.21224257957122328
+     },
+     "Bayes (true process)": {
+      "acc": 0.9094,
+      "A": 0.21143460888223764
+     },
+     "earliest timestamp": {
+      "acc": 0.758995,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.90027,
+      "A": 0.0
+     }
+    },
+    {
+     "attributor (declared)": {
+      "acc": 0.921695,
+      "A": 0.0
+     },
+     "Bayes (nominal model)": {
+      "acc": 0.961425,
+      "A": 0.6270001137210213
+     },
+     "Bayes (true process)": {
+      "acc": 0.961445,
+      "A": 0.627352937331739
+     },
+     "earliest timestamp": {
+      "acc": 0.921695,
+      "A": 0.0
+     },
+     "maintenance history": {
+      "acc": 0.899375,
+      "A": 0.0
+     }
+    }
+   ]
+  }
+ }
+}

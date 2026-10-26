@@ -1,0 +1,29 @@
+{
+ "model_id": "unsloth/Llama-3.1-8B-Instruct",
+ "short": "llama3.1-8b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/force_age__llama3.1-8b.jsonl",
+   "letters",
+   null,
+   null,
+   "age_force"
+  ],
+  [
+   "/kaggle/input/**/force_order__llama3.1-8b.jsonl",
+   "letters",
+   null,
+   null,
+   "order_force"
+  ]
+ ],
+ "age_force": {
+  "n": 21,
+  "seconds": 15.236539125442505
+ },
+ "order_force": {
+  "n": 37,
+  "seconds": 30.68680477142334
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "model_id": "ibm-granite/granite-3.3-8b-instruct",
+ "short": "granite3.3-8b",
+ "load_4bit": true,
+ "inputs": [
+  [
+   "/kaggle/input/**/force_age__granite3.3-8b.jsonl",
+   "letters",
+   null,
+   null,
+   "age_force"
+  ],
+  [
+   "/kaggle/input/**/force_order__granite3.3-8b.jsonl",
+   "letters",
+   null,
+   null,
+   "order_force"
+  ]
+ ],
+ "age_force": {
+  "n": 1,
+  "seconds": 2.7200260162353516
+ },
+ "order_force": {
+  "n": 7,
+  "seconds": 5.269275665283203
+ }
+}
